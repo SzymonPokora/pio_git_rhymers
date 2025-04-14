@@ -34,4 +34,5 @@ class RhymersDemo {
                 + ((HanoiRhymer) rhymers[3]).reportRejected());
     }
 
+    // 15. Wykonane testy jednostkowe przechodzą prawdidłowo i projekt działa poprawnie.
 }
