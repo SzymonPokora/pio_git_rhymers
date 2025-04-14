@@ -44,6 +44,7 @@ public class DefaultCountingOutRhymer {
      *
      * @return indeks ostatniego elementu lub -1, jeśli struktura jest pusta
      */
+    // TODO: Metoda nie jest używana, przemyśleć jej usunięcie.
     public int getTotal() {
         return total;
     }

@@ -20,6 +20,7 @@ public class IntLinkedList {
         return last == null;
     }
 
+    // TODO: W zaimplementowanej strukturze listy funkcja zawsze zwraca false, więc jest zbędna
     public boolean isFull() {
         return false;
     }
